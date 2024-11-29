@@ -1,0 +1,79 @@
+Route_Number,School,AM_Pick_Up_Time,Stop Name,Address,Latitude,Longitude,PM_Drop_Off_Time
+1205,SOC,7:40 AM,Wilmer Hutchins High School,"5520 Langdon Rd, Dallas, TX 75241",32.678,-96.756,5:45 PM
+1205,SOC,7:52 AM,Seagoville High School,"15920 Seagoville Rd, Dallas, TX 75253",32.676,-96.545,5:30 PM
+1205,SOC,8:10 AM,H. Grady Spruce High School,"9733 Old Seagoville Rd, Dallas, TX 75217",32.718,-96.678,5:14 PM
+1205,SOC,8:30 AM,David W. Carter High School,"1819 W Wheatland Rd, Dallas, TX 75232",32.66,-96.856,4:52 PM
+1205,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+1211,SOC,7:45 AM,Seagoville High School,"15920 Seagoville Rd, Dallas, TX 75253",32.676,-96.545,5:35 PM
+1211,SOC,7:57 AM,H. Grady Spruce High School,"9733 Old Seagoville Rd, Dallas, TX 75217",32.718,-96.678,5:20 PM
+1211,SOC,8:12 AM,Wilmer Hutchins High School,"5520 Langdon Rd, Dallas, TX 75241",32.678,-96.756,5:05 PM
+1211,SOC,8:29 AM,David W. Carter High School,"1819 W Wheatland Rd, Dallas, TX 75232",32.66,-96.856,4:52 PM
+1211,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+2224,SOC,7:20 AM,Samuell High School,"8928 Palisade Dr, Dallas, TX 75217",32.718,-96.678,5:52 PM
+2224,SOC,7:33 AM,Skyline High School,"7777 Forney Rd, Dallas, TX 75227",32.767,-96.7,5:38 PM
+2224,SOC,7:49 AM,Madison High School,"3000 Martin Luther King Jr Blvd, Dallas, TX 75215",32.767,-96.765,5:23 PM
+2224,SOC,7:56 AM,Roosevelt High School,"525 Bonnie View Rd, Dallas, TX 75203",32.7107,-96.7778,5:14 PM
+2224,SOC,8:06 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,5:03 PM
+2224,SOC,8:19 AM,David W. Carter High School,"1819 W Wheatland Rd, Dallas, TX 75232",32.66,-96.856,4:52 PM
+2224,SOC,8:30 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+3202,SOC,7:47 AM,Emmett J. Conrad High School,7502 FAIR OAKS AVE Dallas TX 75231,32.8766,-96.7519,5:31 PM
+3202,SOC,8:39 AM,David W. Carter High School,"1819 W Wheatland Rd, Dallas, TX 75232",32.66,-96.856,4:52 PM
+3202,SOC,8:50 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4005,SOC,8:16 AM,Fordham Rd & Bonnie View Rd,"Fordham Rd & Bonnie View Rd, Dallas, TX 75216",32.7107,-96.7778,4:49 PM
+4005,SOC,8:19 AM,Royal Crest Apartments,"3558 Wilhurt Rd, Dallas, TX 75216",32.698,-96.767,4:53 PM
+4005,SOC,8:25 AM,Fellows Ln & Hull Ave,"Fellows Ln & Hull Ave, Dallas, TX 75216",32.6985,-96.767,5:02 PM
+4005,SOC,8:27 AM,Luzon St & Dutch Harbor Ave,"Luzon St & Dutch Harbor Ave, Dallas, TX 75216",32.6985,-96.7655,5:00 PM
+4005,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4017,SOC,7:55 AM,Marbella Apts,"3460 S Great Trinity Forest Way, Dallas, TX",32.7035,-96.7465,5:03 PM
+4017,SOC,8:00 AM,Kristen Dr & Cranfill Dr,"Kristen Dr & Cranfill Dr, Dallas, TX",32.7052,-96.7441,5:12 PM
+4017,SOC,8:10 AM,Barack Obama Male Leadership Academy,"3131 Stag Rd, Dallas, TX 75241",32.676,-96.761,4:56 PM
+4017,SOC,8:16 AM,Oasis II Apartments,"2755 E Ledbetter Dr, Dallas, TX",32.68,-96.754,5:18 PM
+4017,SOC,8:24 AM,Kingsley Dr & Kildare,"Kingsley Dr & Kildare, Dallas, TX",32.6685,-96.762,4:51 PM
+4017,SOC,8:26 AM,Ramona Ave & Kingsley Dr,"Ramona Ave & Kingsley Dr, Dallas, TX",32.668,-96.7615,4:49 PM
+4017,SOC,8:28 AM,Ramona Ave & Mentor,"Ramona Ave & Mentor, Dallas, TX",32.6675,-96.761,4:46 PM
+4017,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4018,SOC,8:16 AM,Bronx Ave & 56th St,"Bronx Ave & 56th St, Dallas, TX 75241",32.6605,-96.76,5:03 PM
+4018,SOC,8:18 AM,Veterans Dr & 56th St,"Veterans Dr & 56th St, Dallas, TX 75241",32.6595,-96.7595,5:01 PM
+4018,SOC,8:23 AM,E Ledbetter Dr & Bonnie View Rd,"E Ledbetter Dr & Bonnie View Rd, Dallas, TX",32.66,-96.7605,4:58 PM
+4018,SOC,8:25 AM,Fordham Rd & Ball St,"Fordham Rd & Ball St, Dallas, TX",32.71,-96.7755,4:53 PM
+4018,SOC,8:27 AM,Garrison St & Fordham Rd,"Garrison St & Fordham Rd, Dallas, TX",32.711,-96.776,4:51 PM
+4018,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4020,SOC,8:20 AM,Marjorie Ave & Bonnie View Rd,"Marjorie Ave & Bonnie View Rd, Dallas, TX",32.71,-96.773,4:52 PM
+4020,SOC,8:23 AM,E Ledbetter Dr & Bonnie View Rd,"E Ledbetter Dr & Bonnie View Rd, Dallas, TX",32.66,-96.7605,5:03 PM
+4020,SOC,8:29 AM,Old Ox Rd & Caravan Trl,"Old Ox Rd & Caravan Trl, Dallas, TX",32.661,-96.7625,5:11 PM
+4020,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4021,SOC,8:16 AM,S Lancaster Rd & Crouch St,"The Ridge Apts @ Lancaster, Dallas, TX 75241",32.6615,-96.758,4:55 PM
+4021,SOC,8:19 AM,Tracy Rd & Pall Mall Ave,"Tracy Rd & Pall Mall Ave, Dallas, TX 75241",32.664,-96.756,5:03 PM
+4021,SOC,8:22 AM,The Homes of Persimmons,"3245 Simpson Stuart Rd, Dallas, TX 75241",32.666,-96.7565,5:05 PM
+4021,SOC,8:24 AM,Champion Village Apartments,"3131 Simpson Stuart Rd, Dallas, TX 75241",32.6665,-96.758,5:07 PM
+4021,SOC,8:26 AM,Kavasar Dr & Teague Dr,"Kavasar Dr & Teague Dr, Dallas, TX 75241",32.6645,-96.756,5:09 PM
+4021,SOC,8:28 AM,Teague Dr & Lyola St,"Teague Dr & Lyola St, Dallas, TX",32.664,-96.7565,5:11 PM
+4021,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4035,SOC,8:21 AM,Buford Dr & Al Patterson,"Buford Dr & Al Patterson, Dallas, TX 75241",32.6645,-96.7585,4:55 PM
+4035,SOC,8:23 AM,Buford Dr & Albert Williams Dr,"Buford Dr & Albert Williams Dr, Dallas, TX 75241",32.664,-96.7575,4:57 PM
+4035,SOC,8:25 AM,Wesleyan & Buford,"Wesleyan & Buford, Dallas, TX 75241",32.6635,-96.7565,4:59 PM
+4035,SOC,8:27 AM,Buford & Panola,"Buford & Panola, Dallas, TX 75241",32.663,-96.7555,5:01 PM
+4035,SOC,8:30 AM,E Red Bird Ln & Sunny Crest Ln,"E Red Bird Ln & Sunny Crest Ln, Dallas, TX",32.661,-96.7545,4:51 PM
+4035,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4039,SOC,8:15 AM,Arkan Pkwy & High Harvest,"Arkan Pkwy & High Harvest, Dallas, TX 75241",32.6605,-96.762,4:51 PM
+4039,SOC,8:20 AM,High Harvest Rd & Pawness St,"High Harvest Rd & Pawness St, Dallas, TX",32.66,-96.7615,4:53 PM
+4039,SOC,8:24 AM,S R L Thornton Fwy & Cliff Heights Cir,"S R L Thornton Fwy & Cliff Heights Cir, Dallas, TX",32.6595,-96.76,4:56 PM
+4039,SOC,8:30 AM,Rosemont Apts,"330 Camp Wisdom Rd, Dallas, TX",32.658,-96.759,5:03 PM
+4039,SOC,8:40 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4040,SOC,8:16 AM,Old Ox & Emma,"Old Ox & Emma, Dallas, TX",32.666,-96.7545,5:07 PM
+4040,SOC,8:18 AM,Old Ox & Cover,"Old Ox & Cover, Dallas, TX",32.6655,-96.754,5:05 PM
+4040,SOC,8:22 AM,Old Ox Rd & Gillarel Springs,"Old Ox Rd & Gillarel Springs, Dallas, TX",32.665,-96.7535,5:03 PM
+4040,SOC,8:25 AM,Sax Leigh & Troy Glen,"Sax Leigh & Troy Glen, Dallas, TX",32.6645,-96.753,5:01 PM
+4040,SOC,8:28 AM,Quartet Dr & Tealglen Dr,"Quartet Dr & Tealglen Dr, Dallas, TX",32.664,-96.7525,4:57 PM
+4040,SOC,8:31 AM,Quartet Dr & Hidden Valley Dr,"Quartet Dr & Hidden Valley Dr, Dallas, TX",32.6635,-96.752,4:54 PM
+4040,SOC,8:36 AM,Lazy River Dr & Concerto Ln,"Lazy River Dr & Concerto Ln, Dallas, TX",32.663,-96.7515,4:51 PM
+4040,SOC,8:45 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4090,SOC,8:25 AM,S Zang Blvd & Wynnwood Dr,"S Zang Blvd & Wynnwood Dr, Dallas, TX",32.71,-96.822,4:46 PM
+4090,SOC,8:32 AM,Bristol Dr & Grayson Dr,"Bristol Dr & Grayson Dr, Dallas, TX",32.711,-96.823,4:48 PM
+4090,SOC,8:34 AM,O Bannon Dr & Garapan Dr,"O Bannon Dr & Garapan Dr, Dallas, TX",32.712,-96.824,4:50 PM
+4090,SOC,8:36 AM,Ryan Rd & W Kiest Blvd,"Ryan Rd & W Kiest Blvd, Dallas, TX",32.713,-96.825,4:52 PM
+4090,SOC,8:45 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
+4207,SOC,8:20 AM,Molina,Address Not Specified,32.703,-96.735,5:27 PM
+4207,SOC,8:33 AM,Kimball,Address Not Specified,32.6615,-96.8595,5:17 PM
+4207,SOC,8:50 AM,David W. Carter High School,"1819 W Wheatland Rd, Dallas, TX 75232",32.66,-96.856,4:52 PM
+4207,SOC,9:00 AM,South Oak Cliff High School,"3601 S Marsalis Ave, Dallas, TX 75216",32.698,-96.8,4:40 PM
